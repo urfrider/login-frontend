@@ -1,0 +1,21 @@
+{
+  "username": "Username",
+  "password": "Password",
+  "language": "Language",
+  "Don't have an account yet?": "Don't have an account yet?",
+  "Register Now!": "Register Now!",
+  "First Name": "First Name",
+  "Last Name": "Last Name",
+  "Password Confirmation": "Password Confirmation",
+  "Role": "Role",
+  "Register": "Register",
+  "Already have an account?": "Already have an account?",
+  "Login": "Login",
+  "USER": "User",
+  "MANAGER": "Manager",
+  "WELCOME": "WELCOME",
+  "NAME": "Name",
+  "WELCOME TO MANAGER PAGE": "WELCOME TO MANAGER PAGE",
+  "logout": "Logout",
+  "GO BACK": "GO BACK"
+}
